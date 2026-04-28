@@ -138,6 +138,7 @@ Instance.new("\85\73\67\111\114\110\101\114",_cb).CornerRadius = UDim.new(0,6)
 local _cbs = Instance.new("\85\73\83\116\114\111\107\101",_cb)
 _cbs.Color = Color3.fromRGB(40,40,80)
 _cbs.Thickness = 1
+
 -- Song Name (preview)
 local _sl = Instance.new("\84\101\120\116\76\97\98\101\108",_fr)
 _sl.Size = UDim2.new(1,-24,0,28)
